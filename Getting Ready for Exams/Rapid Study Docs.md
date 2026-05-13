@@ -10,7 +10,8 @@ Read and analyze the document carefully, then explain:
 3. The main concepts, terms, and ideas I should understand
 4. Any important definitions, frameworks, models, or standards mentioned
 
-Present the answer in a clear, well-structured format with headings and bullet points. Focus only on the content of the document and do not add unrelated information.
+Present the answer in a clear, well-structured format with headings and bullet points.
+Focus only on the content of the document and do not add unrelated information.
 ```
 ---
 
