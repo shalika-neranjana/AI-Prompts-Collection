@@ -1,18 +1,18 @@
 ## Step 01: Document Overview
 
 **Prompt:**
+```
+I am studying from a document titled **"[DOCUMENT NAME]"**.
+Read and analyze the document carefully, then explain:
 
-> I am studying from a document titled **"[DOCUMENT NAME]"**.
-> Read and analyze the document carefully, then explain:
->
-> 1. What the document is mainly about
-> 2. The key topics discussed
-> 3. The main concepts, terms, and ideas I should understand
-> 4. Any important definitions, frameworks, models, or standards mentioned
->
-> Present the answer in a clear, well-structured format with headings and bullet points.
-> Focus only on the content of the document and do not add unrelated information.
+1. What the document is mainly about
+2. The key topics discussed
+3. The main concepts, terms, and ideas I should understand
+4. Any important definitions, frameworks, models, or standards mentioned
 
+Present the answer in a clear, well-structured format with headings and bullet points.
+Focus only on the content of the document and do not add unrelated information.
+```
 ---
 
 ## Step 02: Doc Explaination in Details
