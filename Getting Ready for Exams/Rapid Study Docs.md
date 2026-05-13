@@ -2,7 +2,7 @@
 
 **Prompt:**
 ```
-I am studying from a document titled **"[DOCUMENT NAME]"**.
+I am studying from the document titled [DOCUMENT NAME].
 Read and analyze the document carefully, then explain:
 
 1. What the document is mainly about
