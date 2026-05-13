@@ -2,7 +2,7 @@
 
 **Prompt:**
 ```
-I am studying from the document titled [DOCUMENT NAME].
+I am studying from the document titled **"[DOCUMENT NAME]"**.
 Read and analyze the document carefully, then explain:
 
 1. What the document is mainly about
@@ -10,8 +10,7 @@ Read and analyze the document carefully, then explain:
 3. The main concepts, terms, and ideas I should understand
 4. Any important definitions, frameworks, models, or standards mentioned
 
-Present the answer in a clear, well-structured format with headings and bullet points.
-Focus only on the content of the document and do not add unrelated information.
+Present the answer in a clear, well-structured format with headings and bullet points. Focus only on the content of the document and do not add unrelated information.
 ```
 ---
 
@@ -19,7 +18,7 @@ Focus only on the content of the document and do not add unrelated information.
 
 **Prompt:**
 ```
-I am studying the document [DOCUMENT NAME].
+I am studying the document titled **"[DOCUMENT NAME]"**.
 Explain the content of this document as if you are teaching it to a **Grade 9 student**.
 Use very simple language, short sentences, and easy examples where helpful.
 
